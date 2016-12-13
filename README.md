@@ -1,0 +1,2 @@
+# bayesNets
+This project contains implementation to represent Bayesian Network. Two text files net1.txt and prob1.txt is required for this algorithm to work. First one holds the number of nodes in the first line and parent information for each node in the rest, where nodes represent seperate events. If node A is parent of node B, then it is said that A causes B with some probability. These probabilities are hold in second text file. Each line refers to a node and contains 2^N entries where N is number of parents of that node.  
